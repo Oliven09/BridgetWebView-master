@@ -20,7 +20,7 @@ import com.itheima.bridgewebviewdemo.view.BridgeWebView;
 public class MainActivity extends AppCompatActivity {
 
     private BridgeWebView mWeview;
-    private static final String LOT_URL = "\"file:///android_asset/BridgeWebView/index.html\"";
+    private static final String LOT_URL = "file:///android_asset/BridgeWebView/index.html";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

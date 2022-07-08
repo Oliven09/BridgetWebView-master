@@ -5,7 +5,7 @@ android {
 
     defaultConfig {
         applicationId "com.itheima.bridgewebviewdemo"
-        minSdkVersion 11
+        minSdkVersion 14
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
@@ -24,7 +24,8 @@ android {
 dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation 'com.android.support:appcompat-v7:26.0.0'
-    implementation 'com.github.jiyouliang:BridgeWebView:v1.1'
+//    implementation 'com.github.jiyouliang:BridgeWebView:v1.1'
  //   implementation project(':bridgewebviewlibrary')
-  //  implementation 'com.github.Oliven09:wlplayer:v1.0'
+ //   implementation 'com.github.Oliven09:BridgeWebView:v1.0.0'
+    implementation 'com.github.Oliven09:BridgetWebView-master:v1.0.0'
 }
