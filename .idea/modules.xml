@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BridgeWebView-master.iml" filepath="$PROJECT_DIR$/.idea/modules/BridgeWebView-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bridgewebviewdemo/BridgeWebView-master.bridgewebviewdemo.iml" filepath="$PROJECT_DIR$/.idea/modules/bridgewebviewdemo/BridgeWebView-master.bridgewebviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bridgewebviewlibrary/BridgeWebView-master.bridgewebviewlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/bridgewebviewlibrary/BridgeWebView-master.bridgewebviewlibrary.iml" />
+    </modules>
+  </component>
+</project>
